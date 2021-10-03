@@ -1,8 +1,6 @@
 """
 Project : Tic Tac Toe Game
 @author : M.Raahim Rizwan
-This project is made with the help of a youtube video. Below is the link:
-https://www.youtube.com/playlist?list=PLr-iRXN7HiJgJzMX22AVw4IU8ZOR4JS97
 """
 
 # Importing the libraries
